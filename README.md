@@ -1,7 +1,3 @@
-Here’s the README file content again:
-
----
-
 # Recipe Website
 
 This is a full-stack recipe-sharing website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The website allows users to create, share, and browse recipes.
@@ -98,11 +94,3 @@ npm start
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- Thanks to [Your Inspiration] for guidance on this project.
-- Special thanks to all contributors and collaborators.
-
----
-
-You can copy the above content and paste it into your `README.md` file in your project!
