@@ -2,6 +2,20 @@
 
 This is a full-stack recipe-sharing website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The website allows users to create, share, and browse recipes.
 
+## Screenshots
+
+![Screenshot 4](https://github.com/Darshan0244/RecipeWebsite/blob/e358747881e4f98208ef7a873b306124cc79345f/Screenshot%202025-03-06%20233407.png)
+
+![Screenshot 3](https://github.com/Darshan0244/RecipeWebsite/blob/e358747881e4f98208ef7a873b306124cc79345f/Screenshot%202025-03-06%20233352.png)
+
+![Screenshot 1](https://github.com/Darshan0244/RecipeWebsite/blob/e358747881e4f98208ef7a873b306124cc79345f/Screenshot%202025-03-06%20233224.png)
+
+![Screenshot 5](https://github.com/Darshan0244/RecipeWebsite/blob/e358747881e4f98208ef7a873b306124cc79345f/Screenshot%202025-03-06%20233454.png)
+
+![Screenshot 2](https://github.com/Darshan0244/RecipeWebsite/blob/e358747881e4f98208ef7a873b306124cc79345f/Screenshot%202025-03-06%20233239.png)
+
+
+
 ## Features
 
 - **Recipe Management:** Users can create, edit, and delete their own recipes.
@@ -86,9 +100,6 @@ npm start
 - **PUT** `/recipes/:id` - Update a recipe
 - **DELETE** `/recipes/:id` - Delete a recipe
 
-## Screenshots
-
-(Include screenshots of your website here, if applicable)
 
 ## License
 
